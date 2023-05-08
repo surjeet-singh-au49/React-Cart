@@ -59,6 +59,10 @@
         object-fit: contain;
     }
 
+    >article {
+        text-align: center;
+    }
+
     > div{
         display:flex;
         align-items: center;
