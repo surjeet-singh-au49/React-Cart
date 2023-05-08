@@ -46,7 +46,7 @@ const img2 =
             name: "Black Men T-Shirt",
             price: 8,
             imgSrc: img5,
-            id: "asdadeadassaerafrr"
+            id: "asdadeadassaerafrrfgg"
         }
 
     ];
